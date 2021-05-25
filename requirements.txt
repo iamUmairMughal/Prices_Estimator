@@ -11,3 +11,4 @@ gunicorn==20.0.4
 whitenoise
 joblib
 numpy
+scikit-learn
