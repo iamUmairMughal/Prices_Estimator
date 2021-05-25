@@ -25,7 +25,7 @@ SECRET_KEY = '*!9t=seq1=lf2wanxg5!ln%#3la5^eq3fi48nzf$0*l9z3x)ru'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cars-prices-api.herokuapp.com']
+ALLOWED_HOSTS = ['prices-estimators.herokuapp.com']
 
 
 
